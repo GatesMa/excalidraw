@@ -18,4 +18,4 @@ const moveServiceWorkerScript = () => {
 
 // -----------------------------------------------------------------------------
 
-moveServiceWorkerScript();
+// moveServiceWorkerScript();

@@ -232,14 +232,14 @@ const initializeScene = async (opts: {
 
 const PlusLPLinkJSX = (
   <p style={{ direction: "ltr", unicodeBidi: "embed" }}>
-    Introducing Excalidraw+
+    三更灯火五更鸡,正是男儿读书时
     <br />
     <a
-      href="https://plus.excalidraw.com/plus?utm_source=excalidraw&utm_medium=banner&utm_campaign=launch"
+      href="http://gatesma.cn"
       target="_blank"
       rel="noreferrer"
     >
-      Try out now!
+      Powered By 爆龙战士
     </a>
   </p>
 );

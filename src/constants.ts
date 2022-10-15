@@ -70,6 +70,9 @@ export const FONT_FAMILY = {
   Virgil: 1,
   Helvetica: 2,
   Cascadia: 3,
+  XiaolaiSC: 4,
+  TencentSansW3: 5,
+  TencentSansW7: 6,
 };
 
 export const THEME = {
